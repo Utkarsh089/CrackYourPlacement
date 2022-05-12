@@ -23,4 +23,5 @@ public:
         
         return slow;
     }
+    
 };
